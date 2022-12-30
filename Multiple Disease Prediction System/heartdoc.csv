@@ -1,0 +1,132 @@
+index,Diseases,Doctor,Doctor_Reviews,Hospital,Hospital_Review,Doctor_sentiment,Hospital_sentiment
+0,heart,dr.pruthvi,"Humble,patience,no unnecessary tests",NNRI,Good faculty and loved the people around. One of the best hospital with all Facilities.,negative,positive
+1,heart,dr.pooja,"Knowledgeble,helpful,best consultation",NNRI,Nice place and Staffs,neutral,positive
+2,heart,dr.revanth,"Friendliness,Wait time Explanation of Health issue",NNRI,"Health Issue,Treatment Satisfaction,Value for money,Value for wait time",neutral,neutral
+3,heart,dr.rakesh,"Friendliness,Wait time ,Explanation of Health issue, treatment satisfaction",NNRI,"I was operated on my right hand (bone grafting and plating surgery) on 7th of Jan 2020.. I had a wonderful experience, the staff is very prompt and helpful. ",neutral,positive
+4,heart,dr.preksha,"Value for money, Doctor friendliness ,treatment satisfaction",NNRI,"Excellent staff,especially nurses, house keeping facilities. Nurses, namely, Miss Liji, Miss Divya Chawan and Miss Juna were very kind",neutral,positive
+5,heart,dr.pruthvi,"Friendliness,Wait time ,Value for money",NNRI,"Very very good, knowledgeable, carring nurshing staff",neutral,positive
+6,heart,dr.pooja,Explanation of Health Issue,NNRI,It is a very good hospital.,neutral,positive
+7,heart,dr.revanth,"Value for money, Doctor friendliness, treatment satisfaction",NNRI,The facilities are very good and staff,neutral,positive
+8,heart,dr.pruthvi,"Friendlines, Explanation of Health Issue, treatment satisfaction ,value for money",NNRI,And sisters of fortis were very humble and polite thanks to Jessin sister and divya rani,neutral,negative
+9,heart,dr.rakesh,Explanation of Health Issue,NNRI,Good hospital and house keeping service is very good and neat good facility,neutral,positive
+10,heart,dr.pruthvi,"Doctor Friendliness,Explanation of Health Issue",NNRI,Please clean the washrooms. The smell is very very bad. Service seems to be ok.,neutral,negative
+11,heart,dr.pruthvi,Convinient and Helpful,NNRI,friendly atmosphere good service. ,neutral,positive
+13,heart,dr.preksha,poor friendliness explanation of health issue treatment satisfaction,NNRI,Very calming atmosphere and the hospital itself is so clean and shiny!,negative,positive
+16,heart,dr.pooja,"Good knowledgeable nursing staff, doctors are so simple and interacts with patients in a such way not seen other hospitals.",NNRI,It has been the best hospital I have been to in my life.,positive,positive
+17,heart,dr.revanth,Doctors are so simple and interacts with patients in a such way not seen other hospitals.,NNRI,Doctors and nurses taken excellent care,negative,positive
+18,heart,dr.pruthvi,madam’s continuous counselling/guidance helped us during this crucial time & boosted us morally.,NNRI,I will refer cases due to excellent service. ,neutral,positive
+19,heart,dr.rakesh,Consulted Dr.Pruthvi for fever and i was impressed the way she treats her patients.,NNRI,Excellent nurse's away so cool operative. Food facilities are good. Feel friendly. Awesome,positive,positive
+20,heart,dr.sahana,Very compassionate and friendly with patients.Recommend all to use the service of her when in need.,NNRI,Doctors and nurses.and Staffs are always taking care all patients nicely.,positive,positive
+21,heart,dr.deva,Dr. Pruthvi who is very friendly and make patients feel very comfortable,NNRI,Qualified and experienced professionals dedicated towards patient’s care and rehabilitation,positive,positive
+22,heart,dr.deva,She treated my daughter as her own sister and I liked the way she treated very much and she gives clarifications for any queries.,NNRI,"Starting from admission to discharge excellent service, care, treatment.",positive,positive
+23,heart,dr.ganvik,Great care from all. ,NNRI,Excellent and best in class for all your aches and pains in the heart of namma Bengaluru,positive,positive
+25,heart,dr.pooja,Good facilities and thanks mr.venkatesh facility Head daily round's morning and evening he meet ad supporting .,NNRI,All the facilities were good ...but we had to wait for a long time ...,positive,positive
+26,heart,dr.sahana,My mom's treatment got successful and we are very happy for this..thank you so much to the doctors ,NNRI,But still we have received good service,positive,positive
+27,heart,dr.deva,Good treatments and the doctors respond and explain really well. ,NNRI,"Very good treatment given. Doctors, nurses, administration all were very kind.",positive,positive
+28,heart,dr.preksha,We are so happy for your support. Thank you so much ,NNRI,"Wonderful service,nursing Care is very good",positive,positive
+29,heart,dr.pooja,exceptionally well organised team,NNRI,The hospitality is very good from doctors to all persons attached to the hospitality,positive,positive
+30,heart,dr.rakesh,Very nice and calm. Listens to all problem with lot of patience and gives all suggestions.,NNRI,Good hospitality and very economical.,positive,positive
+31,heart,dr.pooja,Best doctors n good facilities,NNRI,Thank you Sir. Trinity Hospital brings world class heart care to everyone's reach so that the community at large is benefitted.,positive,positive
+32,heart,dr.pooja,Got the required information regarding pacemaker process required for my father in time. ,NNRI,Front desk staff is very cooperative and the doctors,neutral,positive
+33,heart,dr.pruthvi,One of the best Heart hospital. Dr pruthvi is a gem of a Doctor.,NNRI,"Good facility, care about pasents and knowledge.",positive,positive
+34,heart,dr.revanth,good doctors,NNRI,Staff were very helpful and great hounour and took so. Much of care when in ICU ,positive,positive
+35,heart,dr.preksha,"Appreciated treatment and service, communication with patient and attendant was friendly and clear.",NNRI,We had a good experience at this hospital. ,positive,positive
+36,heart,dr.sreedhar,"Golam Subhani Bhiya, we are very happy with the treatment and very happy with the services.",NNRI,The Staff and Doctors are very courteous and took good care,positive,positive
+37,heart,dr.sreedhar,Good doctors ... And good treatments..good employees especially receiptionist employees,NNRI,Thank everyone at this hospital.,positive,neutral
+38,heart,dr.ganvik,"Excellent Doctors and Nurses, satisfied with their service. Friendly staff, feel at home.",NNRI,Highly Proficient cardiologists are seen in this place,positive,positive
+39,heart,dr.ganvik,The treatment was good and the staff was patient oriented,NNRI,"Good response from the staff ,overall a thumbs up",positive,positive
+40,heart,dr.ganvik,Good services doctors and nurses,NNRI,Best hospital & heart foyndation,positive,positive
+41,heart,dr.deva,They are not good in care about heart ,NNRI,Service was very nice.,negative,positive
+42,heart,dr.pooja,Ms.sahana was kind enough to explain the things & clear our doubts..,NNRI,Good patient friendly hospital. Good treatment by all the staff. Rooms are average,positive,positive
+43,heart,dr.preksha,am under Dr sreedhar care from 6 years. He is the best heart specialist I have had in 34;,NNRI,Doctors were excellent.Nursing staff were always smiling which boosts the morale of patients,positive,neutral
+44,heart,dr.pooja,We are really thankful to Dr Revanth sir who did operated to my father in law. ,NNRI,.House keeping staff tried their level best to keep up hygiene inspite of a little water scarcity,positive,positive
+45,heart,dr.ganvik,I would definitely recommend THE HEART CENTER . You will never leave without a smile. ,NNRI,Nice Hospital with good Doctors and great consultation as well,positive,positive
+46,heart,dr.rakesh,Fantastic consultants and a wonderful team of caregivers dealing with all adult and childrens heart problems,NNRI,Very nice and helpful to me since I'm coming 5 year,positive,positive
+50,heart,dr.revanth,The nurses and doctors are so good . . ,NNRI,Good treatment and good facilities....very good in taking care of patients......,positive,positive
+51,heart,dr.pooja,"The cleanliness, the staff, the doctors, the food, the service",NNRI,Excellenc service,neutral,neutral
+52,heart,dr.revanth,"I'm so blessed for having known this hospital and grateful to all the doctors, nurses and staff who contributed in the care of my father ",NNRI,Good hospital and good treatment,neutral,positive
+53,heart,dr.deva,"A Big thanks to Dr. preksha, He has done very complected angioplasty for my mother. Very approachable, humble person.",NNRI,"Satisfied service, caring and helpful staff.",positive,positive
+54,heart,dr.pooja,"It's a great pleasure to be here, the team including Doctor are very humble and provide effective, economic and good treatment",NNRI,Good hospitality services. With more concerned staff.,positive,positive
+55,heart,dr.ganvik,very good service their doctors are my gods,NNRI,A good place.. Were directed for angiogram test here for a close relative.. Got good treatment.,positive,positive
+56,heart,dr.preksha,good doctors and supporting staff ,NNRI,Good hospital,positive,positive
+57,heart,dr.revanth,"Very good care,nurshing and treatment at affordable price",NNRI,"staff was good, polite,friendly, interactive and informative.",positive,positive
+58,heart,dr.pooja,Doctors and management r not good,NNRI,Very bad hospital.  No hard working staff.,negative,negative
+59,heart,dr.preksha,Inpatient service by doctors and nurse is treated well.,NNRI,"This hospital is budget friendly but if you are claiming any govt schemes, insurance they will not treat",neutral,positive
+60,heart,dr.revanth,We are very appreciated for the immediate attention for the patient needs ,NNRI,Unless it is emergency they don't treat you immediately. For operations and therapys they will give date on that day patient should admit.,positive,neutral
+61,heart,dr.pooja,I came to hospital for consultation with Dr Pooja she is very good doctor and very helpfull staff good treatment..,NNRI,.Staff don't give information properly there is no proper coordination between various departments/ devisions so they will make you roam from one floor to another floor ,positive,neutral
+62,heart,dr.ganvik,Very good quality sarvice Dr ganvik best general medicine doctor,NNRI,"Even patient ready to pay they don't get private, semideluxe and deluxe ward....even getting general ward is difficult here.",positive,positive
+63,heart,dr.yamuna,well experienced Doctors,NNRI,"Treatment is good, hospital maintenance is good",positive,positive
+64,heart,dr.yamuna,Nice treatment and helpful staffs.,NNRI,Budget friendly ,positive,positive
+65,heart,dr.ganvik,Dr. ganvik gynecologist and Dr. Vasumati K K are the stars with their team.,NNRI,Neatness not bad,neutral,positive
+66,heart,dr.preksha,Over all good service thanks to kamadhenu hospital all staffs special thanks to Dr preksha best hospital in bangalore.,NNRI,Karnataka No 1 Govt Hospital Managing Best Service and Health Care.,positive,positive
+67,heart,dr.pooja,Thanks to Dr  pooja and kamadhenu hospital all staffs I recommend to my family and friends.....,NNRI,"Excellent hub for superb quality treatments, little expensive but it is worthy, spread in quite large area.",positive,positive
+68,heart,dr.rakesh,Treatment good dr srinivas is very good all staff are very helpful they take care with kind full and charges are reasonable,NNRI,"Good care, waiting time and appointments can be managed better",positive,positive
+69,heart,dr.sahana,I am very happy my brother in law admitted good care all staff very cooperated I am very thankful to dr sahana,NNRI,Very good hospital And very helpful,positive,positive
+70,heart,dr.sahana,Overall its good Dr rakesh is good hand thanks for all staff,NNRI,I like this hospital and I will suggest to all my friends and family,positive,neutral
+71,heart,dr.manojith,i felt very happy about the dr revanth shivakumar and all the staff thank you,NNRI,Very good Hospital for Heart operation,positive,positive
+74,heart,dr.manojith,"Gud treatment,fast recovery of patient , immediate assistance was given,all of the staff were pro active",NNRI,Good disciplines hospital for cardiovascular health care,negative,positive
+75,heart,dr.manojith,Good treatment all staff very friendly,NNRI,I am very happy good Hospital staff very friendly,positive,positive
+76,heart,dr.preksha,Doctors are very friendly . Cost effective hospital .Staff in the hospital are also supportive .,NNRI,One of the best hospital for cardiology. Accept BPL card also & very affordable for middle class people,positive,positive
+77,heart,dr.pooja,Nice doctor  good treatment,NNRI,It is very well maintained and equipped hospital,positive,positive
+78,heart,dr.yamuna,Dr.yamuna is so frndly and treatment care and facility wise it's really good.,NNRI,Good doctors and staff...,positive,positive
+79,heart,dr.manojith,"my mother got recovered quickly, overall good experience",NNRI,Good service hospital,positive,positive
+80,heart,dr.rakesh,good doctor thank you,NNRI,Most efficient services in .hospital. Amazing,positive,positive
+81,heart,dr.pooja,i felt very happy about the dr and all the staff thank you,NNRI,Very good hospital .. affordable and good treatment for cardic problems. ,positive,positive
+82,heart,dr.ganvik,I will refer this hospital for my friends because in emergency case doctor and supporting staff is help lot with adminating and co ordinating with Clinet.,NNRI,Very good Hospitals.. With good facilities and specialised doctors...,positive,positive
+83,heart,dr.rehan,"Dr Rehan is a businessman rather than a doctor, ",NNRI,We were very happy with the service provided and the available medical facility.,neutral,positive
+84,heart,dr.ganvik,Worst experience ever have. ,NNRI,"we are also appreciate the cleanliness of the hospital, I would like to suggest, if possible provide canteen facility.",negative,neutral
+86,heart,dr.rehan,"underwent cardio-thoracic surgery, in this hospital staff doctors and other supportive staffs are very good n specialy I thanks to Dr Rehan,",NNRI,Good experience. All staff are very friendly and good... Would definitely recommend.,positive,positive
+87,heart,dr.rehan,One of the best team. Can always relay on Dr. Rehan. Humble n down to Earth.. never need second opinion.... EOD you will walk out with a smile...,NNRI, Cleanliness is well maintained,positive,neutral
+88,heart,dr.rehan,"Dr. Rehan, but they did not treat her for bedsores neither took precaution like providing a air bed to avoid bedsores..",NNRI,The hospital staff is very friendly. ,neutral,positive
+89,heart,dr.ganvik,"Dr.Rehan is one of the best surgeons in the world, who is so humble, kind and treats his patients at ease.",NNRI,Good hospital with all facilities and well taking care,positive,positive
+91,heart,dr.rehan,Thank You Dr Rehan and Team,NNRI,Hospital infrastracture is good and service us well. The over all experience is good.,neutral,positive
+92,heart,dr.rehan,Fantastic consultants and a wonderful team of caregivers dealing with all adult and childrens heart problems,NNRI,Hospital service is good.,positive,positive
+93,heart,dr.rehan,"I am Ramanna from madhugiri I underwent cardio-thoracic surgery, in this hospital staff doctors and other supportive staffs are very good n specialy I thanks to Dr Rehan, he is like a god,",NNRI,"My experience at The Heart Centre, Hospital was superior and well above medical treatment standards. ",positive,positive
+94,heart,dr.preksha,very good doctor.nice response,NNRI,I would definitely recommend THE HEART CENTER . You will never leave without a smile. ,positive,positive
+95,heart,dr.nalini,very bad treatment,NNRI,"Average service, expensive.",negative,negative
+96,heart,dr.nalini,doctors are Good,NNRI,Best for casualty and emergency,positive,positive
+97,heart,dr.nalini,well experienced Doctors,NNRI,For banded dressing they took Rs 550,positive,neutral
+98,heart,dr.manojith,Great care from all. ,NNRI,too expencive,positive,neutral
+101,heart,dr.nalini,good team,NNRI,they just fool everyone to get money and don't tell the exact position of the patient.,positive,positive
+102,heart,dr.preksha,very well treated,NNRI,"This hospital service is very poor but final bill amount is very good because people becareful ,",positive,positive
+103,heart,dr.nalini,Worst experience ever have. ,NNRI,Very bad service. ,negative,negative
+105,heart,dr.anand,The doctor is very good at his work and the staff is really good.,NNRI,For me this clinic is perfect place for a diabetic patient to get into!!,positive,positive
+106,heart,dr.anand,"Personal information to all, please strictly follow the doctor's suggestion.",NNRI,Best clinic.,neutral,positive
+107,heart,dr.sham,"Good doctor, consulting is very professional. ",NNRI,Have supported 24/7 for queries. Best place for diabetic consultation.,positive,positive
+108,heart,dr.ram,This is happy to see that my hba1c came to 6 from 9% within 3months with regular follow-up .... Thanks for giving best treatment by the doctor and staffs,NNRI,the way they force you to purchase their packages is very bad. They feel very bad and you will be treated differently if you ask for only required lab testes instead of package,positive,negative
+109,heart,dr.ravan,Good treatment given by the doctor.. my mother's hba1c which was at 9.4 has come to 7.6 with 3 months treatment. Highly recommended,NNRI,Best hospital ,positive,positive
+110,heart,dr.balaji,"Good doctor, Balaji and good support staff. Was able to reduce the hba1c count from 13 to 7 in 3 month . Thanks to the team working here.",NNRI,Staff are very friendly and supportive,positive,positive
+111,heart,dr.ram,Wonderful doctor and team it’s is good caring team. And they have some packages also which helps us too follow good lifestyles and continues monitoring of our blood sugar,NNRI,The hospital staff and doctor are very good,positive,positive
+112,heart,dr.sham,"The Doctor is Good,",NNRI,Its very good clinic...follow up is impresive !!,positive,positive
+113,heart,dr.ravan,I had very good experience with apollo sugar clinic first time when i visited my diabetes was in very bad condition now i am very happy ,NNRI,Before coming to this clinic I had high sugar. After the treatment for one month the sugar level has come normal.,positive,positive
+115,heart,dr.seetha,I highly recommend this place for treatment of diabetes..,NNRI,I am very much satisfied with the service and treatment,positive,positive
+126,heart,dr.seetha,Very much satisfied with the doctor treatment and services,NNRI,"This is a good sugar clinic ,overally everything of this clinic ie. Treatment, behaviour of the clinical staff along with Doctor's perfect experience is highly appreciated.",positive,positive
+148,heart,dr.pruthvi,"Humble,patience,no unnecessary tests",NNRI,Good faculty and loved the people around. One of the best hospital with all Facilities.,negative,positive
+149,heart,dr.pooja,"Knowledgeble,helpful,best consultation",NNRI,Nice place and Staffs,neutral,positive
+150,heart,dr.revanth,"Friendliness,Wait time Explanation of Health issue",NNRI,"Health Issue,Treatment Satisfaction,Value for money,Value for wait time",neutral,neutral
+151,heart,dr.rakesh,"Friendliness,Wait time ,Explanation of Health issue, treatment satisfaction",NNRI,"I was operated on my right hand (bone grafting and plating surgery) on 7th of Jan 2020.. I had a wonderful experience, the staff is very prompt and helpful.",neutral,positive
+153,heart,dr.pruthvi,Explanation of Health Issue,NNRI,Good hospital and house keeping service is very good and neat good facility,neutral,positive
+157,heart,dr.deepu,Doctor is good.but the appointment timings maintaining is too worst.they will give appointment at 5pm and they will tell to wait for 3 hours ,VAIBHAV,Worst hospital.No value for time and process is very poor. Needs more attention towards the patient as they make them wait for 2-3 hours.,neutral,negative
+158,heart,dr.deepu,"Friendliness,Wait time Explanation of Health issue",VAIBHAV,"Not so great..Extremely money minded and also, we will not get receipts if we do not ask for it specifically.",neutral,neutral
+159,heart,dr.deepu,Dr. and staff here are kind and helpful in nature,VAIBHAV,No value for time & no respect or kindness for patients,positive,neutral
+161,heart,dr.nidhi,Quick reduction of symptoms,VAIBHAV,Its too much waitng exactly tym doctr wll nt get simply given appointment for waitng ..patients tired bcz too much waitng so ..plz respect the patients alwys .,positive,positive
+162,heart,dr.nidhi,Good treatment,VAIBHAV,"Very bad experience , fed up if it by waiting even after taking appointment",positive,negative
+163,heart,dr.nidhi,Service is good and staff is friendly,VAIBHAV,Too much waiting. For getting cure we are visiting here. But by making us to wait for doctor will results with some special diseaases,positive,positive
+164,heart,dr.nidhi,good team,VAIBHAV,No value for time and meaningless advance appointment system.,positive,negative
+245,heart,dr.nidhi,"Doctor is too cool listing to each and every the problems and taken his time,suggested the best medicine .....",VAIBHAV,Good facilitys,positive,positive
+246,heart,dr.deepu,"Doctor seems to be less interested to see patient. No detailed history, no physical examination and just gave medicine after asking 2 questions.",VAIBHAV,Best clinic,negative,positive
+253,heart,dr.nidhi,Professional staff....quality treatment...will recommend others.,VAIBHAV,Too much waiting. For getting cure we are visiting here. But by making us to wait for doctor will results with some special diseaases,positive,positive
+282,heart,dr.deepu,Overall treatment was good.,VAIBHAV,very bad service,positive,negative
+283,heart,dr.deepu,Friendly staff..!! Helps out a lot,VAIBHAV,very bad service,positive,negative
+327,heart,dr.swapna,Very nice and calm. Listens to all problem with lot of patience and gives all suggestions.,SPARSH,Cost of the treatment was affordable too,positive,neutral
+328,heart,dr.swapna,Not satisfied with doctor.. ,SPARSH,It's is very helpful hospital to cancer patients but security system and nurses is not good doctors is Very good,negative,positive
+329,heart,dr.swapna,Very good treatment pleasant atmosphere,SPARSH,Nice place and Staffs,positive,positive
+330,heart,dr.swapna,Worst experience ever have. ,SPARSH,not a good hospital,negative,negative
+331,heart,dr.swapna,very bad treatment,SPARSH,Best hospital for many purpose,negative,positive
+332,heart,dr.swapna,Not satisfied with doctor.,SPARSH,Not satisfied with hospital.,negative,negative
+336,heart,dr.swapna,"Doctors are knowledgeable, empathetic.",SPARSH,good hospital,neutral,positive
+341,heart,dr.swapna,very bad treatment,SPARSH,One of the best clinics had ever been.,negative,positive
+398,heart,dr.swapna,Not satisfied with doctor.,SPARSH,"Very well maintained,",negative,positive
+483,heart,dr.swapna,very bad service,SPARSH,not good,negative,negative
+484,heart,dr.swapna,Not a professional experience,SPARSH,Very commercial health care centre.,negative,neutral
+485,heart,dr.swapna,worst doctors ,SPARSH,Rude behavior while enquiry through call,negative,negative

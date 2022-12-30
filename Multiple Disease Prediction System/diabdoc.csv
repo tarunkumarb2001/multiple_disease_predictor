@@ -1,0 +1,176 @@
+index,Diseases,Doctor,Doctor_Reviews,Hospital,Hospital_Review,Doctor_sentiment,Hospital_sentiment
+12,diabetes,dr.sahana,Quick reduction of symptoms,NNRI,Everyone is so friendly and reassuring!,positive,positive
+14,diabetes,dr.deva,very bad treatment,NNRI,bad response for appointment too! ,negative,negative
+15,diabetes,dr.ganvik,I had my appointment fixed next day but doctor did not arrive next day  ,NNRI,The staff very attentive and caring to provide the best service. ,positive,positive
+24,diabetes,dr.preksha,Dr. Sreedhar very much goodn,NNRI,Hospital is really good and doctors are very very trustworthy .,positive,positive
+47,diabetes,dr.rakesh,Doctors not explaining the checkup results properly. ,NNRI,Overall treatment was good,neutral,positive
+49,diabetes,dr.revanth,It could have been better if doctor explain the patient with health checkup results without rushing.,NNRI,Everything is good .well treatment. Good caretaking and availability of nursing and doctors.,positive,positive
+85,diabetes,dr.nalini,Nalini is even bad then the doctor,NNRI,I recommend my family and friends thank you good luck keep moving with more success.,negative,positive
+90,diabetes,dr.nalini,"Best doctor in Bangalore, I Recommend to everyone 1 to consult him for any bypass surgery...",NNRI,Good hospital helpful staff I recommend to my family and friends thanks to all staff,positive,positive
+116,diabetes,dr.balaji,doctor Balaji is very good..also the staff and dietician is very supportive and cooperative,NNRI,"Super support from staff, Nurse and Doctor.",positive,positive
+117,diabetes,dr.balaji,My sugar levels came under control drastically with in a month. Dr will spend much time in explaining the patient about our conditions,NNRI,Using latest technology and great commitment treating patients.,positive,positive
+118,diabetes,dr.balaji,Excellent service. My suger level is in control now. Good doctor to consult for sugar in Padmanabha nagar with doctor Balaji,NNRI,Good clinic.. Courteous and friendly staff and good dietician.,positive,positive
+120,diabetes,dr.jaganmohan,Thanks to the treatment suggested to me by Dr. Jaganmohan ,NNRI,I am happy with the service so far. Hope to have my sugar under controlled comfortably.,positive,positive
+121,diabetes,dr.ram,My sugar levels are well under control and my family is able to breathe easy because of my health. Thanks once again!,NNRI,Great place to check and control for Sugar & BP patients.,positive,positive
+122,diabetes,dr.sham,Its a perfect place for a diabetic patient to get into!!! ,NNRI,This is the best clinic for diabetic patients .....,positive,positive
+123,diabetes,dr.ravan,Excellent consultation of the doctor. Very good Counselling on diabetic care and dietary,NNRI,Good treatment for Diabetes and friendly staff,positive,positive
+124,diabetes,dr.ravan,Heath advice given at the clinic is excellent and has helped me to attain a very good control over my sugar levels,NNRI,Great place for diabetes pateint.,positive,positive
+125,diabetes,dr.ram,"octor is professional. My mother is taking treatment, her diabetic is under control now.",NNRI,Excellant diagnosis and courteous staff,positive,positive
+130,diabetes,dr.anand,"very good doctor,my mothers diabetes is under control for the past 9months.good staff are very cooperative and will guide u untill ur finished.",NNRI,Good service hospital,positive,positive
+131,diabetes,dr.anand,Complet diabetic care centre ... The doctor and the staff is caring n supportive in reducing the H1B sugar level,NNRI,Worst hospital.. they look only fr money…,positive,negative
+132,diabetes,dr.anand,My sugar levels have came down drastically i am very much happy with the Dr treatment and clinic staff and I definitely recommend this to diabetes ,NNRI,Best hospital ,positive,positive
+133,diabetes,dr.sham,I am happy with the clinic for the hospitality and excellent service provided by the staff. The Doctor is very polite and understand the problem of the patient and give the best treatment.,NNRI,very nice staff and the hospital is very clean,positive,positive
+134,diabetes,dr.ram,"100 percent recommended, the best doc in city.",NNRI,I recommend my family and friends thank you good luck keep moving with more success.,positive,positive
+135,diabetes,dr.balaji,good team,NNRI,Cleaning facts,positive,neutral
+136,diabetes,dr.balaji,Dr Balaji Jaganmohan is excellent doctor,NNRI,Good service..pleasant...,positive,positive
+137,diabetes,dr.balaji,Dr. and staff here are kind and helpful in nature,NNRI,cool and comfortable hospital.,positive,positive
+138,diabetes,dr.balaji,"Thanks to Dr balaji and his team and Apollo sugar clinic , I am Very much satisfied with Dr treatment and staff support",NNRI,Good hospital,positive,positive
+139,diabetes,dr.anand,Very good care. Sensible treatment. With in 1 month my sugar was brought under control. Thanks ,NNRI,Good service hospital,positive,positive
+140,diabetes,dr.sham,I am happy with the clinic for the hospitality and excellent service provided by the staff. The Doctor is very polite and understand the problem of the patient and give the best treatment.,NNRI,Most efficient services in .hospital. Amazing,positive,positive
+141,diabetes,dr.balaji,Good place for diabetes and Dr Balaji will give Best treatment .....,NNRI,The facilty is hygienic & well maintained.,positive,neutral
+142,diabetes,dr.sham,The Doctor is excellent. He checks all the details and suggest for the medicine. He don't overdo by giving lots of medicine.,NNRI,Good clinic.. Courteous and friendly staff and good dietician.,positive,positive
+143,diabetes,dr.balaji,"All facilities with eminant Dr. balaji's guidance and good staff support, my parents are in good health. Thanks",NNRI,This is the right place for diabetes,positive,positive
+144,diabetes,dr.balaji,.Dr.Bala ji given good treatment and Dr.priyanka is given the good diet.,NNRI, Cleanliness is well maintained,positive,neutral
+145,diabetes,dr.ram,Verry good experience with the doctor and same goes with staff ,NNRI,No value for time & no respect or kindness for patients,positive,neutral
+146,diabetes,dr.balaji,I would strongly recommend Dr. Balaji sir to all the diabetic patients,NNRI,Best hospital for many purpose,positive,positive
+147,diabetes,dr.balaji,Very much satisfied with dr tretment dr balaji is very and same goes with the staff,NNRI,Best for casualty and emergency,positive,positive
+165,diabetes,dr.sidhu,"Good doctor for diabetes, but there is no value for the time here.please don't wait the patients, it's my humble request.",VAIBHAV,No value for time and meaningless advance appointment system.,positive,negative
+166,diabetes,dr.sidhu,"One of the best doctor, never get irritated with patients question, so good in nature, proactive, overall good experience.",VAIBHAV,"Very well maintained,",positive,positive
+167,diabetes,dr.sidhu,One of the best place to be treated right. The -2 star is for the arrogance around the place,VAIBHAV,clean and hygienic place,positive,positive
+169,diabetes,dr.gayathri,they explain the importance of the applicable treatment plan . Their treatments are very effective and gives amazing results. ,VAIBHAV,"They are truly concerned cohesive team, with customized and personal approach. ",positive,neutral
+170,diabetes,dr.sidhu,"very professional, a good listener and provided me with excellent service for my issue.",VAIBHAV,"With great patience,",positive,positive
+171,diabetes,dr.naveen,Great experience. Excellent staff,VAIBHAV,I have been bringing my father for the last 1 year and I only have pleasant experiences to share. It is a very good clinic.,positive,positive
+172,diabetes,dr.naveen,A high end hospital with good infrastructure and well experienced doctor and knowledgeable personnel.,VAIBHAV,It has very good nursing staff with experienced doctors & good Pharmacy.,positive,positive
+173,diabetes,dr.naveen,Doc gives ample time to each patient.. Careful diagnosis.. Explains the cause and treatment procedure.. Medicine available at inhouse pharmacy.,VAIBHAV,The facilty is hygienic & well maintained.,positive,neutral
+174,diabetes,dr.naveen,"Dr.interaction with patient. Satisfied,gives only feelings,entire team take good care.",VAIBHAV,"Good hospital, we are visiting since last 8 years",positive,positive
+175,diabetes,dr.sidhu,dr. is a very good doctor. He has knowledge of allopathic and ayurveda. Clinic is excellent. I personally recommended to visit him.,VAIBHAV,Staff and latest Equipment for all your needs.,positive,positive
+176,diabetes,dr.sidhu,"Dr is a senior and an experienced Physician, qualified in both Ayurveda and Allopathy. His diagnosis is perfect and the clinic provides best services.",VAIBHAV,Excellent,positive,positive
+177,diabetes,dr.prakash,It is nice and staff are good and doctors will treat good nurse are good,VAIBHAV,very nice staff and the hospital is very clean ,positive,positive
+178,diabetes,dr.sidhu,An excellent Hospital with Great Doctors,VAIBHAV,One of the best clinics had ever been.,positive,positive
+179,diabetes,dr.sidhu,Good treatment ,VAIBHAV,"All facilities are available laboratory,pharmacy and good staff .I trust this",positive,positive
+180,diabetes,dr.sidhu,Doctors are very friendly supporting staffs are good. Recommend all diabetic patients to consult him as he is very experienced. All the best for him and his team,VAIBHAV,Excellent hospitality,positive,positive
+181,diabetes,dr.naveen,i had a very good experience with the LAB and NURSE team when i went to get my health check up done.,VAIBHAV,Best part is they don't mislead and dont recommend many tests to perform to make money unlike many other hospitals do.,positive,positive
+182,diabetes,dr.naveen,They were very friendly and at the same time very informative about what they were doing to me in terms of the health checkup that i was under going.,VAIBHAV,Best hospital for many purpose,positive,positive
+183,diabetes,dr.sidhu,The clinic also has a very senior and highly experienced doctor ,VAIBHAV,Consultancy fee and test fee is very offordble,positive,positive
+184,diabetes,dr.naveen,Pls do visit this centre .from my experience .... doctor was very friendly and helpful ,VAIBHAV,Nice place and Staffs,positive,positive
+185,diabetes,dr.sidhu,We are extremely happy about treatment of doctor,VAIBHAV,Receptionist is not at all answerable. If ask any regarding Dr appointment & others,positive,neutral
+186,diabetes,dr.naveen,Service is good and staff is friendly,VAIBHAV,Courteseous staff,positive,neutral
+187,diabetes,dr.prakash,Very good treatment pleasant atmosphere,VAIBHAV,Receptionist is not at all answerable. If ask any regarding Dr appointment & others,positive,neutral
+188,diabetes,dr.prakash,Clear guidelines and instructions. They provide special care with contact number to assist in future. ,VAIBHAV,Excellent,positive,positive
+189,diabetes,dr.prakash,Very very Good doctors i have visitted 1st time here i had excellent experience here sri haree sir was an extraordinary dr he was very good dr iam very thank full to all the staff and drs iam happy,VAIBHAV,Loved it,positive,positive
+190,diabetes,dr.prakash,Dr is very professional and he will find the cause immediately. Once if u consult him you will not consult anybody else. Such a good doctor.,VAIBHAV,Cleaning facts,positive,neutral
+191,diabetes,dr.naveen,"nice doctor, who gives you a lot of confidence in facing your health issues",VAIBHAV,"Happy with the service and with the team, 360 approach for diabetes is really beniftial",positive,positive
+192,diabetes,dr.naveen,"Excellent response and perfect analysis from Dr..and good supportive staff,helping patients get better soon!",VAIBHAV,Best place where we receive best service.. And all staff are very caring...,positive,positive
+193,diabetes,dr.naveen,It's good feeling in the clinic,VAIBHAV,"Good service,package sugar 360 platinum is very helpful ",positive,positive
+194,diabetes,dr.sidhu,Dr  is a very experienced doctor for Diabetes tratement and also a very good physician.,VAIBHAV,good experience.,positive,positive
+195,diabetes,dr.prakash,Good treatment. Also good conversation,VAIBHAV,"really provides good service, staffs r really coperative nd hospital has maintained a proper ambience nd cleaniness .",positive,positive
+196,diabetes,dr.sidhu,Suffering from sugar now it is under control thanks to sir,VAIBHAV,One of the best place for diabetes and doctor treatment is good,positive,positive
+197,diabetes,dr.naveen,Doctors and nurses are very cooperative,VAIBHAV,Good service..pleasant...,positive,positive
+198,diabetes,dr.prakash,"Humble, patient and well qualified.",VAIBHAV,Good staffs best treatment,negative,positive
+199,diabetes,dr.naveen,Good clinic for diabetic patients,VAIBHAV,"Good hospitality, good treatment, best place to go to if ur diabetic...!!!!!!",positive,positive
+200,diabetes,dr.prakash,Good treatment. Also good conversation,VAIBHAV,Completely satissatisfied with the service,positive,positive
+201,diabetes,dr.naveen,Very good doctor...clean and modern medical centre.,VAIBHAV,This is the right place for diabetes,positive,positive
+202,diabetes,dr.prakash,Suffering from sugar now it is under control thanks to  sir,VAIBHAV,Nice experience.,positive,positive
+203,diabetes,dr.naveen,Doctors and nurses are very cooperative,VAIBHAV,Very good and satisfactory,positive,positive
+204,diabetes,dr.naveen,Very cooperative and helpful,VAIBHAV,Good atmosphere and hospitality,positive,positive
+205,diabetes,dr.prakash,Courteseous staff,VAIBHAV,all staff are so curtious with patients and public,neutral,neutral
+206,diabetes,dr.sidhu,"Humble, patient and well qualified.",VAIBHAV,It doesn't look like clinc but homely atmosphere. All patients are at ease with Doctors touch,negative,neutral
+207,diabetes,dr.sidhu,Good clinic for diabetic patients,VAIBHAV,Life care is the best clinic for all diabetes patients,positive,positive
+208,diabetes,dr.prakash,Very good doctors,VAIBHAV,Nice place good to see pleasant,positive,positive
+209,diabetes,dr.naveen,Good doctor,VAIBHAV,Very nice Service,positive,positive
+210,diabetes,dr.prakash,Experienced doctors,VAIBHAV,Good atmosphere,positive,positive
+211,diabetes,dr.naveen,Friendly staff and prompt.,VAIBHAV,Best clinic.,positive,positive
+212,diabetes,dr.sidhu,"Good Service , Im very Happy to take tritment in Apollo Sugar Sheshadripuram , Staff very Help to each & every Patient",VAIBHAV,Excellent,positive,positive
+213,diabetes,dr.sidhu,Good place for dieabitecs and complications.,VAIBHAV,Excellant diagnosis and courteous staff,positive,positive
+214,diabetes,dr.prakash,All the necessary test will be done under one roof.... Good doctor and staffs,VAIBHAV,Excellent centre with great Dr and support staff,positive,positive
+215,diabetes,dr.sidhu,"Good Service , Im very Happy to take tritment in Apollo Sugar Sheshadripuram , Staff very Help to each & every Patient",VAIBHAV,This is the best clinic for diabetic patients .....,positive,positive
+216,diabetes,dr.naveen,best treatment good service and staffs are very kind and helping nature in apollo sugar clinic,VAIBHAV,The hospital staff is very friendly. ,positive,positive
+217,diabetes,dr.prakash,Excellent service,VAIBHAV,Most efficient services in .hospital. Amazing,positive,positive
+218,diabetes,dr.prakash,Nicely approching and talking.,VAIBHAV,Budget friendly,positive,positive
+219,diabetes,dr.naveen,Problem solving without any difficulties,VAIBHAV,I have been bringing my father for the last 1 year and I only have pleasant experiences to share. It is a very good clinic.,neutral,positive
+220,diabetes,dr.sidhu,They are quite professional and have excellent qualified team and doctor!,VAIBHAV,we have received good service,positive,positive
+221,diabetes,dr.prakash,Best treatment and staff's very good and doctor Narendra treatment is very good I will refer my friends,VAIBHAV,Treatment Satisfaction,positive,neutral
+222,diabetes,dr.sidhu,"Nice hopiyality , doctor was very good.",VAIBHAV,Service was very nice.,positive,positive
+223,diabetes,dr.naveen,Very good staffs and doctor best treatment,VAIBHAV,"Good hospital, we are visiting since last 8 years",positive,positive
+224,diabetes,dr.sidhu,Good hospitality and very good treatment..... Nice staff good caring....,VAIBHAV,Complete Diabetes care,positive,positive
+225,diabetes,dr.prakash,Very nice doctor with attention to detail,VAIBHAV,One of the best place for diabetes and doctor treatment is good,positive,positive
+226,diabetes,dr.sidhu,Care & response is good,VAIBHAV,This is one of the best hospital to visit for any kind of health issue,positive,positive
+227,diabetes,dr.prakash,Good staffs best treatment,VAIBHAV,We had a good experience at this hospital,positive,positive
+228,diabetes,dr.prakash,Team is aligned giving best care to the patients and doctor treartrea is very good,VAIBHAV,clean and hygienic place,positive,positive
+229,diabetes,dr.naveen,Very good experience with staffs and doctor I ll refer my friends,VAIBHAV,cool and comfortable hospital.,positive,positive
+230,diabetes,dr.naveen,very good n excellent staff n very friendly also..,VAIBHAV,"Very well maintained,",positive,positive
+231,diabetes,dr.prakash,"Staffs are excellent and doctor consultation is also good, staffs are very helpful",VAIBHAV,clean and hygienic place,positive,positive
+232,diabetes,dr.prakash,Excellent,VAIBHAV,very nice staff and the hospital is very clean ,positive,positive
+233,diabetes,dr.sidhu,The Best Treatment Friendly approach of staff,VAIBHAV,Best clinic.,positive,positive
+234,diabetes,dr.sidhu,"Good staff and excellent treatment, staffs are very friendly and smiling",VAIBHAV,"really provides good service, staffs r really coperative nd hospital has maintained a proper ambience nd cleaniness .",positive,positive
+235,diabetes,dr.naveen,Good & friendly treatment & very much co-operate to patient & conselling,VAIBHAV,cool and comfortable hospital.,positive,positive
+236,diabetes,dr.prakash,Best treatment,VAIBHAV,Excellent hospitality,positive,positive
+237,diabetes,dr.prakash,Staffs are excellent and helpful.,VAIBHAV,Overall treatment was good,positive,positive
+238,diabetes,dr.naveen,Best treatment and staffs are good,VAIBHAV,Good service hospital,positive,positive
+239,diabetes,dr.prakash,Well good experience with doctors and with staff.,VAIBHAV,Best for casualty and emergency,positive,positive
+240,diabetes,dr.naveen,The doctors are really caring and spend quality time with the patient .,VAIBHAV,Excellent,positive,positive
+241,diabetes,dr.sidhu,Excellent staffs,VAIBHAV,This is the right place for diabetes,positive,positive
+242,diabetes,dr.sidhu,Polite doctor explains in detail with suggestions,VAIBHAV,Courteseous staff,neutral,neutral
+243,diabetes,dr.sidhu,She is very kind and persceribing medicines r really good,VAIBHAV,Service was very nice.,positive,positive
+244,diabetes,dr.sidhu,Very systematically the doctor has treated and brought the sugar level to control for my mom in law.,VAIBHAV,Good Hospital and Co-staff,positive,positive
+251,diabetes,dr.sidhu,"Good, polite and sensible doctor",VAIBHAV,Best for casualty and emergency,positive,positive
+252,diabetes,dr.sidhu,Very good experience. Listens to the patient very carefully before giving treatment. Quality of a good doctor.,VAIBHAV,Nice place and Staffs,positive,positive
+256,diabetes,dr.prakash,Good Doctor for diabetic patients.,VAIBHAV,One of the best clinics had ever been.,positive,positive
+257,diabetes,dr.naveen,"A doctor, worth consulting for a better health",VAIBHAV,The hospital staff and doctor are very good,positive,positive
+258,diabetes,dr.naveen,A Doctor you can rely on and you get complete care for diabetic and related issues.,VAIBHAV,"Good service,package sugar 360 platinum is very helpful ",positive,positive
+260,diabetes,dr.naveen,"Met first time, doctor is friendly & experienced. Fast and correct diagnosis. I have to review still with him but...meeting was gr8.",VAIBHAV,The hospital staff and doctor are very good,positive,positive
+261,diabetes,dr.sidhu,He is a brilliant doctor,VAIBHAV,Service was very nice.,positive,positive
+262,diabetes,dr.sidhu,Does not go overboard on medication,VAIBHAV,Overall treatment was good,negative,positive
+263,diabetes,dr.sidhu,money minded commercial doctor .,VAIBHAV,Cleanliness is well maintained,neutral,neutral
+264,diabetes,dr.sidhu,nice and good treatment,VAIBHAV,Good atmosphere,positive,positive
+265,diabetes,dr.sidhu,Doctor takes care of all patients with atmost care and friendly. ,VAIBHAV,"Health Issue,Treatment Satisfaction,Value for money,Value for wait time",positive,neutral
+266,diabetes,dr.prakash,Good Dr treating patient very well ,VAIBHAV,Good service..pleasant...,positive,positive
+267,diabetes,dr.prakash,Good Doctor and Good treatment,VAIBHAV,Super hospital and good services,positive,positive
+268,diabetes,dr.prakash,nice doctor,VAIBHAV,Its fantastic place to get treatment for diabetes,positive,positive
+269,diabetes,dr.naveen,Excellent Doctor,VAIBHAV,ONE STOP place for a complete Diabetes Care with exceptionally caring faculty..,positive,positive
+270,diabetes,dr.prakash,Great treatment....,VAIBHAV,"Friendly atmosphere,Good technology",positive,positive
+271,diabetes,dr.naveen,Doctor is very good and caring,VAIBHAV,"Good care, good diabetic clinic and lab",positive,positive
+272,diabetes,dr.sidhu,One of the best clinic to get the treatment for Diabeties and its complications,VAIBHAV,Complete Diabetes care,positive,positive
+273,diabetes,dr.sidhu,Excellent doctor to visit for all ur diabetic problems and one stop soloution to resolve all ur other medical problems also,VAIBHAV,Hygienity is maintained well in hospital,positive,neutral
+274,diabetes,dr.naveen,good environment and experienced doctors,VAIBHAV,"Well equipped, experienced staffs. ",positive,positive
+276,diabetes,dr.prakash,Nice hospital and good experience ,VAIBHAV,Hospital service is good.,positive,positive
+277,diabetes,dr.prakash,Nice hospital,VAIBHAV,Complete Diabetes care,positive,positive
+279,diabetes,dr.prakash,Excellent Doctors,VAIBHAV,I am happy about the treatment and nursing service in this hospital thank you.,positive,positive
+280,diabetes,dr.naveen,Staffs are very helpful. ,VAIBHAV,Service was very nice.,positive,positive
+281,diabetes,dr.sidhu,Doctors are very cooperative,VAIBHAV,Service was very nice,positive,positive
+284,diabetes,dr.naveen,Wonderful doctor..!! ,VAIBHAV,Service was very nice.,positive,positive
+286,diabetes,dr.prakash,The staff and doctors here are very good in terms of knowledge,VAIBHAV,Good facilitys,positive,positive
+287,diabetes,dr.sidhu,Staff is very supportive at all the time. I will give full marks to this hospital and entire staff for their hospitality and support to the patients.,VAIBHAV,"My experience at The Heart Centre, Hospital was superior and well above medical treatment standards",positive,positive
+289,diabetes,dr.sidhu,"Nice hospital with a good care ,thank you doctors and all the staff",VAIBHAV,The hospital is very well constructed with all the needs for patient. ,positive,positive
+290,diabetes,dr.sidhu,Very good service by Doctors and staff.,VAIBHAV,Service was very nice.,positive,positive
+292,diabetes,dr.naveen,"Kind hearted doctors and his staff, I am very greatful to the dcotors and tbe staff for their services",VAIBHAV,Not a good hospital,positive,negative
+293,diabetes,dr.naveen,Tanks you for good treatment fantastic service,VAIBHAV,This is one of the best hospital to visit for any kind of health issue,positive,positive
+294,diabetes,dr.prakash,"Good hospital, great doctors and surgeons.",VAIBHAV,I will give full marks to this hospital and entire staff for their hospitality and support to the patients.best hospital in Bangalore,positive,positive
+295,diabetes,dr.prakash,Had good experience and over all good,VAIBHAV,Very good hospital..great ambiance. ,positive,positive
+296,diabetes,dr.naveen,"Great doctor, and his service.",VAIBHAV,I am happy about the treatment and nursing service in this hospital thank you.,positive,positive
+297,diabetes,dr.sidhu,Doctors advice and caring is good. ,VAIBHAV,very bad service ,positive,negative
+298,diabetes,dr.sidhu,Personal care and service by doctors and staff is fantastic,VAIBHAV,cool and comfortable hospital.,positive,positive
+322,diabetes,dr.chandru,worst doctors ,SPARSH,Rude behavior while enquiry through call,negative,negative
+323,diabetes,dr.chandru,Not a professional experience,SPARSH,Very commercial health care centre.,negative,neutral
+324,diabetes,dr.chandru,not satisified,SPARSH,no neatness,neutral,neutral
+325,diabetes,dr.chandru,rude behavior,SPARSH,worst atmospihar,negative,negative
+326,diabetes,dr.chandru,very experienced and friendly doctor,SPARSH,overall good,positive,positive
+337,diabetes,dr.chandru,The nurses and doctors are so good . . ,SPARSH,For me this clinic is perfect place for a diabetic patient to get into!!,positive,positive
+338,diabetes,dr.chandru,Not a professional experience,SPARSH,worst hospital,negative,negative
+342,diabetes,dr.chandru,Good clinic for diabetic patients,SPARSH,Good service hospital,positive,positive
+343,diabetes,dr.geetha,"A doctor, worth consulting for a better health",SPARSH,"staff was good, polite,friendly, interactive and informative.",positive,positive
+406,diabetes,dr.chandru,Not satisfied with doctor.,SPARSH,The hospital staff and doctor are very good,negative,positive
+407,diabetes,dr.chandru,good team,SPARSH,I highly recommend this place for treatment of diabetes..,positive,positive
+408,diabetes,dr.chandru,Doctors and management r not good,SPARSH,Very good hospital And very helpful,negative,positive
+409,diabetes,dr.chandru,"A doctor, worth consulting for a better health",SPARSH,One of the best clinics had ever been.,positive,positive
+410,diabetes,dr.chandru,money minded,SPARSH,"Average service, expensive.",neutral,negative
+443,diabetes,dr.chandru,Good Doctor for diabetic patients.,SPARSH,We had a good experience at this hospital. ,positive,positive
+444,diabetes,dr.chandru,Nice doctor  good treatment,SPARSH,"staff was good, polite,friendly, interactive and informative.",positive,positive
+445,diabetes,dr.chandru,They are not good in care about heart ,SPARSH,Best hospital for many purpose,negative,positive
+479,diabetes,dr.chandru,Good treatment good result we are satisfied and recommend to other friends,SPARSH,The staff very attentive and caring to provide the best service. ,positive,positive
+480,diabetes,dr.chandru,Not satisfied with doctor.,SPARSH,Not satisfied with hospital.,negative,negative
+481,diabetes,dr.chandru,"Doctors are knowledgeable, empathetic.",SPARSH,recommended,neutral,neutral
+482,diabetes,dr.chandru,very bad treatment,SPARSH,not a good hospital,negative,negative
+499,diabetes,dr.jaganmohan,Nice doctor  good treatment,NNRI,The hospital is very well constructed with all the needs for patient. ,positive,positive
+500,diabetes,dr.jaganmohan,Good facilities and thanks mr.venkatesh facility Head daily round's morning and evening he meet ad supporting .,NNRI,The hospital staff is very friendly. ,positive,positive
+501,diabetes,dr.jaganmohan,very bad experence,NNRI,bad response for appointment too! ,negative,negative
